@@ -7,5 +7,6 @@
 </head>
 <body>
     <h1>hello world</h1>
+    <p>paragraf ke-2</p>
 </body>
 </html>
